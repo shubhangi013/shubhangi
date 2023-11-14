@@ -7,9 +7,6 @@
 </div>
 <h2 align="center">I'm Shubhangi Choudhary, an Electrical Engineering sophomore at IIT (BHU).<h2>
  <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhangi013&count_private=true&theme=radical" />
-</a>
   
    </div>
   
